@@ -1,0 +1,22 @@
+{
+  "name": "mevn-starter",
+  "version": "1.0.0",
+  "description": "MEVN starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnarbaitz/mevn-starter.git"
+  },
+  "author": "jared",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnarbaitz/mevn-starter/issues"
+  },
+  "homepage": "https://github.com/jnarbaitz/mevn-starter#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
